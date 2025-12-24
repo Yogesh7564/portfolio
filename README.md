@@ -1,4 +1,4 @@
-# Yogesh Kumar — Portfolio
+# Yogesh H K — Portfolio
 
 Welcome — I'm Yogesh (GitHub: [@Yogesh7564](https://github.com/Yogesh7564)). This repository contains my personal portfolio website showcasing selected projects, skills, and ways to contact me.
 
